@@ -1,0 +1,26 @@
+.card {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    color: rgb(82, 82, 82);
+}
+
+h1{
+color:rgb(95, 91, 91)
+
+}
+section {
+   
+ color: rgba(105, 105, 105, 0.534);
+}

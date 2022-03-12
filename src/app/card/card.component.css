@@ -1,0 +1,35 @@
+.card-component {
+    width: 250px;
+    height: 380px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    line-height: 40px;
+    text-align: center;  
+}
+
+p {
+    color: gray;
+    
+}
+
+button {
+    width: 200px;
+}
+
+mat-card-subtitle {
+    font-size: 50px;
+    font-weight: bolder;
+}
+.mat-divider {
+    display: block;
+    margin: 15px;
+    border-top-width: 1px;
+    border-top-style: solid;
+}
+.mat-card .mat-divider-horizontal {
+    position: inherit;
+    left: 0;
+    width: 100%;
+}
